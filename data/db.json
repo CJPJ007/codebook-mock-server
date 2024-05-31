@@ -2,7 +2,7 @@
     "eBooks": [
       {
         "id": 1,
-        "imageSource": "http://localhost:3000/eBooksImages/react.jpg",
+        "imageSource": "/eBooksImages/react.jpg",
         "inStock": true,
         "name": "React",
         "rating": 5,
@@ -14,7 +14,7 @@
       },
       {
         "id": 2,
-        "imageSource": "http://localhost:3000/eBooksImages/java.jpg",
+        "imageSource": "/eBooksImages/java.jpg",
         "inStock": false,
         "name": "Java",
         "rating": 4.7,
@@ -26,7 +26,7 @@
       },
       {
         "id": 3,
-        "imageSource": "http://localhost:3000/eBooksImages/cpp.jpg",
+        "imageSource": "/eBooksImages/cpp.jpg",
         "inStock": true,
         "name": "C++",
         "rating": 3,
@@ -37,7 +37,7 @@
       },
       {
         "id": 4,
-        "imageSource": "http://localhost:3000/eBooksImages/ml.jpg",
+        "imageSource": "/eBooksImages/ml.jpg",
         "inStock": true,
         "name": "ML",
         "rating": 2,
@@ -50,7 +50,7 @@
     "reviews": [
       {
         "id": 1,
-        "imageSource": "http://localhost:3000/reviewImages/reviewImage1.avif",
+        "imageSource": "/reviewImages/reviewImage1.avif",
         "title": "Very easy this was to integrate",
         "name": "Bonnie Green",
         "desc": "If you care for your time, I hands down would go with this.\"",
@@ -58,7 +58,7 @@
       },
       {
         "id": 2,
-        "imageSource": "http://localhost:3000/reviewImages/reviewImage2.avif",
+        "imageSource": "/reviewImages/reviewImage2.avif",
         "title": "Solid foundation for any project",
         "name": "Roberta Casas",
         "desc": "Designing with Figma components that can be easily translated to the utility classes of Tailwind CSS is a huge timesaver!\"",
@@ -66,7 +66,7 @@
       },
       {
         "id": 3,
-        "imageSource": "http://localhost:3000/reviewImages/reviewImage3.avif",
+        "imageSource": "/reviewImages/reviewImage3.avif",
         "title": "Mindblowing workflow",
         "name": "Jese Leos",
         "desc": "Aesthetically, the well designed components are beautiful and will undoubtedly level up your next application.\"",
@@ -74,7 +74,7 @@
       },
       {
         "id": 4,
-        "imageSource": "http://localhost:3000/reviewImages/reviewImage4.avif",
+        "imageSource": "/reviewImages/reviewImage4.avif",
         "title": "Efficient Collaborating",
         "name": "Joseph McFall",
         "desc": "You have many examples that can be used to create a fast prototype for your team.\"",
